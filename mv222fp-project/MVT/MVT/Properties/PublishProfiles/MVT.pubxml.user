@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>Z:\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>04/19/2015 15:35:53</publishTime>
+    </File>
+    <File Include="bin/MVT.dll">
+      <publishTime>06/07/2015 20:34:39</publishTime>
+    </File>
+    <File Include="css/Style.css">
+      <publishTime>06/07/2015 20:26:33</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/19/2015 15:36:56</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/19/2015 15:35:55</publishTime>
+    </File>
+    <File Include="Pages/Delade/Error.html">
+      <publishTime>04/19/2015 15:39:22</publishTime>
+    </File>
+    <File Include="Pages/Delade/Site.Master">
+      <publishTime>05/20/2015 02:44:30</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/Aktiviteter.aspx">
+      <publishTime>05/20/2015 02:06:30</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/AktiviteterInfo.aspx">
+      <publishTime>05/20/2015 02:49:38</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/AktivitetMedlem.aspx">
+      <publishTime>05/31/2015 19:48:16</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/Befattningar.aspx">
+      <publishTime>05/31/2015 19:58:47</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/Kontaktinfo.aspx">
+      <publishTime>05/31/2015 20:42:08</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/Lista.aspx">
+      <publishTime>05/20/2015 01:52:40</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/MedlemsInfo.aspx">
+      <publishTime>05/31/2015 18:47:53</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/NyAktiviteter.aspx">
+      <publishTime>05/20/2015 03:46:03</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/NyMedlem.aspx">
+      <publishTime>05/20/2015 02:06:30</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/Radera.aspx">
+      <publishTime>05/20/2015 02:06:30</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/RaderaAktivtet.aspx">
+      <publishTime>05/20/2015 02:44:30</publishTime>
+    </File>
+    <File Include="Pages/MedlemsPages/Redigera.aspx">
+      <publishTime>05/20/2015 03:55:32</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.3.js">
+      <publishTime>04/19/2015 15:35:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.3.min.js">
+      <publishTime>04/19/2015 15:35:54</publishTime>
+    </File>
+    <File Include="Scripts/jquery-2.1.3.min.map">
+      <publishTime>04/19/2015 15:35:54</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/07/2015 20:34:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

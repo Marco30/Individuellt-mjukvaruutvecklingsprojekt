@@ -1,0 +1,30 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="MVT.Pages.Delade.Site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleHolder" runat="server">
+          Marcos applikation 
+        </asp:ContentPlaceHolder>
+    </title>
+   <link href="~/css/Style.css" rel="stylesheet" type="text/css" media="screen" runat="server" /> <!-- fixat Css så att den fnukar på alla sidor -->
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    
+        <div id="inramning">
+            
+            <div id="TitleLabel1">
+            <h1>Inspire</h1>
+             
+</div>
+        </div>
+
+        <asp:ContentPlaceHolder ID="MainHolder" runat="server" />
+
+    </form>
+</body>
+</html>
